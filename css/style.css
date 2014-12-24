@@ -1048,6 +1048,9 @@
 		line-height: 3em;
 		letter-spacing: -1px;
 	}
+	#logo-icon {
+		margin: 12px 5px 0px 10px;
+	}
 	
 		#logo a {
 			font-size: 1.25em;
